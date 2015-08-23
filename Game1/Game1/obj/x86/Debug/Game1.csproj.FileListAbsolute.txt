@@ -1,0 +1,120 @@
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Game1.exe
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Game1.pdb
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\obj\x86\Debug\Game1.exe
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\obj\x86\Debug\Game1.pdb
+c:\users\11648096\documents\visual studio 2013\Projects\Game1\Game1\bin\Windows\Debug\Content\Texture\crate.png
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\Content\Texture\crate.png
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 Introduction to Computer Game Programming\Week3\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Texture\crate.png
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\Ground\Ground.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\Ground\3SNe_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_back_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_front_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_left_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_right_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_top_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\week4\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\skybox.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Texture\crate.png
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\Ground\3SNe_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\Ground\Ground.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_back_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_front_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_left_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_right_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_top_0.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\skybox.xnb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Game1.exe
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\Game1.pdb
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
