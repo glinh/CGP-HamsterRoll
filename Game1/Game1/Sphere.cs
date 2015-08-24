@@ -26,6 +26,11 @@ namespace Game1
         BasicEffect effect;
         Camera camera;
         
+        //Movement-related variables;
+        float xSpeed;
+        float zSpeed;
+        float speed = 0.03f;
+
         //Jump-related variable
         bool onJump = false;
         float jumpSpeed = 0;
@@ -35,9 +40,9 @@ namespace Game1
         //Draw Sphere
         VertexPositionNormalTexture[] vpnt;
         int[] indices;
-        float radius = 3;
+        float radius = 10;
         int stacks = 9;
-        int slices = 6;
+        int slices = 9;
 
         //Texture coordinates 
         Vector2 topLeft, topMiddle, topRight, centerLeft, center, centerRight, bottomLeft, bottomMiddle, bottomRight;
@@ -68,7 +73,7 @@ namespace Game1
             setTextureCoordinates();
             setNormalVectors();
             setCubeVertices();
-            //setSphereVertices();
+           // setSphereVertices();
             base.LoadContent();
         }
 
@@ -240,14 +245,54 @@ namespace Game1
             */
             //Translation
             if (keyboardState.IsKeyDown(Keys.W))
-                worldTranslation *= Matrix.CreateTranslation(0, 0, -.1f);
-            if (keyboardState.IsKeyDown(Keys.S))
-                worldTranslation *= Matrix.CreateTranslation(0, 0, .1f);
-            if (keyboardState.IsKeyDown(Keys.A))
-                worldTranslation *= Matrix.CreateTranslation(-.1f, 0, 0);
-            if (keyboardState.IsKeyDown(Keys.D))
-                worldTranslation *= Matrix.CreateTranslation(.1f, 0, 0);
+            {
+                if (zSpeed > 0)
+                {
+                    zSpeed -= speed*2;
+                }
+                else
+                {
+                    zSpeed -= speed;
+                }
+            }
 
+            if (keyboardState.IsKeyDown(Keys.S))
+            {
+                if (zSpeed < 0)
+                {
+                    zSpeed += speed*2;
+                }
+                else
+                {
+                    zSpeed += speed;
+                }
+            }
+            if (keyboardState.IsKeyDown(Keys.A))
+            {
+                if (xSpeed > 0)
+                {
+                    xSpeed -= speed*2;
+                }
+                else
+                {
+                    xSpeed -= speed;
+                }
+            }
+            if (keyboardState.IsKeyDown(Keys.D))
+            {
+                if (xSpeed < 0)
+                {
+                    xSpeed += speed*2;
+                }
+                else
+                {
+                    xSpeed += speed;
+                }
+            }
+
+            worldTranslation *= Matrix.CreateTranslation(xSpeed, 0, zSpeed);
+
+            //Jumping
             if (Keyboard.GetState().IsKeyDown(Keys.Space) && onJump == false)
             {
                 onJump = true;

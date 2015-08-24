@@ -118,3 +118,37 @@ C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programm
 C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
 C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
 C:\Users\Jihoon\Desktop\UTS Note\2015 SPR Introduction to Computer Game Programming\Project\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\obj\x86\Debug\Game1.pdb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Texture\crate.png
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\Ground\3SNe_0.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\Ground\Ground.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_back_0.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_front_0.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_left_0.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_right_0.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\clear_top_0.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\SkyBox\skybox.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Game1.exe
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Game1.pdb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\obj\x86\Debug\Game1.exe
