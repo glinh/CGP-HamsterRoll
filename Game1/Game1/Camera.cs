@@ -20,7 +20,7 @@ namespace Game1
         MouseState prevMouseState;
 
         Vector3 initialHeight = new Vector3(0, 3, 0);
-        Vector3 initialDistance = new Vector3(0, 20, 20);
+        Vector3 initialDistance = new Vector3(0, 10, 40);
         Sphere cube;
 
 
