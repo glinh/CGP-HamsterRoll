@@ -21,6 +21,7 @@ namespace Game1
 
         Vector3 initialHeight = new Vector3(0, 3, 0);
         Vector3 initialDistance = new Vector3(0, 10, 40);
+        Vector3 ballPosition;
         Sphere cube;
 
 
@@ -70,16 +71,21 @@ namespace Game1
             return v;
         }
 
+        public void passBallPosition(Vector3 position)
+        {
+            ballPosition = position;
+        }
+
         public override void Update(GameTime gameTime)
         {
             // Move forward/backward
-            Vector3 v = cube.cubePosition;
+            Vector3 v = ballPosition;
             v.Y = 0;
             cameraPosition = initialDistance + v;
-            
+            /*
             if(!cube.isJumping())
-            cameraDirection = cube.cubePosition - cameraPosition;
-
+            cameraDirection = ballPosition - cameraPosition;
+            */
 
             // Reset prevMouseState
             prevMouseState = Mouse.GetState(  );

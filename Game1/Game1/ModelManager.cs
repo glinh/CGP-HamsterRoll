@@ -27,12 +27,16 @@ namespace Game1
         }
 
         protected override void LoadContent()
-        {
+        {            
+            modelCollection.Add(new Bowl(
+               Game.Content.Load<Model>(@"Model/Bowl/bowl"), camera));
             modelCollection.Add(new Ground(
                 Game.Content.Load<Model>(@"Model/Ground/Ground"),camera)); // ground
             modelCollection.Add(new SkyBox(
-                Game.Content.Load<Model>(@"Model/SkyBox/skybox"),camera)); // skybox
-            
+                Game.Content.Load<Model>(@"Model/SkyBox/skybox"),camera)); // skybox            
+            modelCollection.Add(new Ball(
+                Game.Content.Load<Model>(@"Model/Ball/BeachBall"), camera));
+
             base.LoadContent();
         }
 

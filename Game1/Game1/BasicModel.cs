@@ -14,6 +14,8 @@ namespace Game1
         public Model model { get; protected set; }
 
         protected Matrix world = Matrix.Identity;
+        protected Matrix translation = Matrix.Identity;
+        protected Matrix rotation = Matrix.Identity;
 
         public BasicModel(Model model, Camera camera)
         {
@@ -35,7 +37,7 @@ namespace Game1
             {
                 foreach (BasicEffect effect in mesh.Effects)
                 {
-                    effect.World = mesh.ParentBone.Transform * world; // * scaling matrix
+                    effect.World = mesh.ParentBone.Transform * rotation * world * translation; // * scaling matrix
                     effect.View = camera.view;
                     effect.Projection = camera.projection;
                     effect.TextureEnabled = true;
@@ -47,6 +49,16 @@ namespace Game1
         protected virtual Matrix GetWorld ()
         {
             return world;
+        }
+
+        protected virtual Matrix GetTranslation()
+        {
+            return translation;
+        }
+
+        protected virtual Matrix GetRotation()
+        {
+            return rotation;
         }
 
     }

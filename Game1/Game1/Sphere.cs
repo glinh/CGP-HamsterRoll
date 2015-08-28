@@ -14,6 +14,7 @@ namespace Game1
     {
         public Vector3 cubePosition {get; protected set; }
         
+
         Matrix worldTranslation = Matrix.Identity;
         Matrix worldRotation = Matrix.Identity;
         Matrix worldScale = Matrix.Identity;
@@ -30,6 +31,7 @@ namespace Game1
         float xSpeed;
         float zSpeed;
         float speed = 0.03f;
+        const float friction = 0.01f;
 
         //Jump-related variable
         bool onJump = false;
@@ -229,7 +231,7 @@ namespace Game1
             KeyboardState keyboardState = Keyboard.GetState();
 
             cubePosition = worldTranslation.Translation;
-            /*
+            
             //Rotation
             if (mouseState.LeftButton == ButtonState.Pressed)
             {
@@ -242,8 +244,20 @@ namespace Game1
                 worldScale *= Matrix.CreateScale(1.1f);
             if (mouseState.ScrollWheelValue < previousState.ScrollWheelValue)
                 worldScale *= Matrix.CreateScale(.9f);
-            */
+            
             //Translation
+
+            //Stopping the object completely after friction
+            if (Math.Abs(xSpeed) < 0.01f)
+            {
+                xSpeed = 0;
+            }
+            if (Math.Abs(zSpeed) < 0.01f)
+            {
+                zSpeed = 0;
+            }
+
+            //Movement movement
             if (keyboardState.IsKeyDown(Keys.W))
             {
                 if (zSpeed > 0)
@@ -288,6 +302,24 @@ namespace Game1
                 {
                     xSpeed += speed;
                 }
+            }
+
+            //friction
+            if (xSpeed < 0)
+            {
+                xSpeed += friction;
+            }
+            if (xSpeed > 0)
+            {
+                xSpeed -= friction;
+            }
+            if (zSpeed < 0)
+            {
+                zSpeed += friction;
+            }
+            if (zSpeed > 0)
+            {
+                zSpeed -= friction;
             }
 
             worldTranslation *= Matrix.CreateTranslation(xSpeed, 0, zSpeed);
