@@ -42,9 +42,9 @@ namespace Game1
             // TODO: Add your initialization logic here
             IsMouseVisible = true;
             camera = new Camera(this, playerPosition, targetPosition, Vector3.Up);
-            cube = new Sphere(this, camera);
+      //     cube = new Sphere(this, camera);
             Components.Add(camera);
-            Components.Add(cube);
+           // Components.Add(cube);
 
             modelManager = new ModelManager(this, camera);
             Components.Add(modelManager);
