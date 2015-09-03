@@ -192,3 +192,6 @@ C:\Users\12039537\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\C
 C:\Users\12039537\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\Ball\BeachBallTexture_0.xnb
 C:\Users\12039537\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\Bowl\bowl.xnb
 E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\Bowl\bowl.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Model\Bowl\obiwan_0.xnb
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\Terrain\land.png
+E:\Users\Peter\Desktop\CGP-HamsterRoll-master\Game1\Game1\bin\Windows\Debug\Content\terrain.xnb

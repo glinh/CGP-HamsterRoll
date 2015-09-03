@@ -16,6 +16,7 @@ namespace Game1
         protected Matrix world = Matrix.Identity;
         protected Matrix translation = Matrix.Identity;
         protected Matrix rotation = Matrix.Identity;
+        protected Matrix movement = Matrix.Identity;
 
         public BasicModel(Model model, Camera camera)
         {
@@ -37,7 +38,7 @@ namespace Game1
             {
                 foreach (BasicEffect effect in mesh.Effects)
                 {
-                    effect.World = mesh.ParentBone.Transform * rotation * world * translation; // * scaling matrix
+                    effect.World = mesh.ParentBone.Transform * rotation * world * movement  * translation; // * scaling matrix
                     effect.View = camera.view;
                     effect.Projection = camera.projection;
                     effect.TextureEnabled = true;
@@ -45,13 +46,31 @@ namespace Game1
                 mesh.Draw();
             }
         }
+        /*
+        public bool CollidesWith(Model otherModel, Matrix otherWorld)
+        {
+            // Loop through each ModelMesh in both objects and compare
+            // all bounding spheres for collisions
+            foreach (ModelMesh myModelMeshes in model.Meshes)
+            {
+                foreach (ModelMesh hisModelMeshes in otherModel.Meshes)
+                {
+                    if (myModelMeshes.BoundingSphere.Transform(
+                        GetWorld()).Intersects(
+                        hisModelMeshes.BoundingSphere.Transform(otherWorld)))
+                        return true;
+                }
+            }
+            return false;
+        }
+         */
 
-        protected virtual Matrix GetWorld ()
+        public virtual Matrix GetWorld ()
         {
             return world;
         }
 
-        protected virtual Matrix GetTranslation()
+        public virtual Matrix GetTranslation()
         {
             return translation;
         }

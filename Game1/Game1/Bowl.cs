@@ -16,14 +16,18 @@ namespace Game1
         }
 
         public override void Draw(GraphicsDevice device, Camera camera)
-        {
-            world = Matrix.CreateTranslation(0, -2.25f, 0);
+        {            
+            translation = Matrix.CreateTranslation(-38,-190, -80);
+            world = Matrix.CreateScale(2f);
+
             base.Draw(device, camera);
         }
         
         public override void Update(GameTime gameTime)
         {
+
             base.Update(gameTime);
         }
+
     }
 }

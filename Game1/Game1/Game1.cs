@@ -1,4 +1,5 @@
-﻿using Microsoft.Xna.Framework;
+﻿using System;
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
@@ -14,6 +15,8 @@ namespace Game1
         SpriteBatch spriteBatch;
         Sphere cube;
         public Camera camera { get; protected set; }
+        Texture2D terrain;
+        HeightMapInfo heightMapInfo;
         //Cube cube;
         ModelManager modelManager;
 
@@ -25,6 +28,7 @@ namespace Game1
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
+            heightMapInfo = new HeightMapInfo();
             Content.RootDirectory = "Content";
         }
 
@@ -46,7 +50,7 @@ namespace Game1
             Components.Add(camera);
            // Components.Add(cube);
 
-            modelManager = new ModelManager(this, camera);
+            modelManager = new ModelManager(this, camera, heightMapInfo);
             Components.Add(modelManager);
 
             base.Initialize();
@@ -59,6 +63,13 @@ namespace Game1
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            terrain = Content.Load<Texture2D>(@"Terrain/land");
+            heightMapInfo.setHeight(terrain);
+           // heightMapInfo = terrain.Tag as HeightMapInfo;
+           // if (heightMapInfo == null)
+           // {
+           //     throw new Exception("The terrain model does not have a heightMapInfo");
+           // }
         }
 
         /// <summary>

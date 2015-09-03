@@ -19,8 +19,8 @@ namespace Game1
         Vector3 cameraUp;
         MouseState prevMouseState;
 
-        Vector3 initialHeight = new Vector3(0, 3, 0);
-        Vector3 initialDistance = new Vector3(0, 10, 40);
+        Vector3 initialHeight = new Vector3(0, 0, 0);
+        Vector3 initialDistance = new Vector3(0, 400, 0);
         Vector3 ballPosition;
         Sphere cube;
 
@@ -44,8 +44,16 @@ namespace Game1
             // Set mouse position and do initial get state
             Mouse.SetPosition(Game.Window.ClientBounds.Width / 2,
                 Game.Window.ClientBounds.Height / 2);
-            prevMouseState = Mouse.GetState();
+            
+            Vector3 variable = Vector3.Cross(cameraUp, cameraDirection);
+            variable.Normalize();
 
+            cameraDirection = Vector3.Transform(cameraDirection,
+                 Matrix.CreateFromAxisAngle(variable, (MathHelper.PiOver4 / 100) *
+                 (Game.Window.ClientBounds.Height / 2)));
+             
+            prevMouseState = Mouse.GetState();
+            
             base.Initialize();
         }
         
@@ -82,6 +90,7 @@ namespace Game1
             Vector3 v = ballPosition;
             v.Y = 0;
             cameraPosition = initialDistance + v;
+
             /*
             if(!cube.isJumping())
             cameraDirection = ballPosition - cameraPosition;
@@ -91,13 +100,15 @@ namespace Game1
             prevMouseState = Mouse.GetState(  );
             // Recreate the camera view matrix
             CreateLookAt();
+
             base.Update(gameTime);
         }
 
         private void CreateLookAt()
-        {
+        {           
             view = Matrix.CreateLookAt(cameraPosition,
-                cameraPosition + cameraDirection, cameraUp);
+                cameraPosition + cameraDirection, cameraUp);            
+
         }
         public void CreateProjection()
         {
