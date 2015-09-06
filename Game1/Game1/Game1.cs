@@ -63,7 +63,7 @@ namespace Game1
         protected override void LoadContent()
         {
             spriteBatch = new SpriteBatch(GraphicsDevice);
-            terrain = Content.Load<Texture2D>(@"Terrain/land");
+            terrain = Content.Load<Texture2D>(@"Terrain/blank5");
             heightMapInfo.setHeight(terrain);
            // heightMapInfo = terrain.Tag as HeightMapInfo;
            // if (heightMapInfo == null)
